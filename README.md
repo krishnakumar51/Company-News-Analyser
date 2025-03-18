@@ -58,7 +58,7 @@ This project is ideal for:
     uvicorn main:app --reload
 
 - Start the frontend application:
-    ``bash
+    ```bash
     cd frontend
     streamlit run app.py
 
