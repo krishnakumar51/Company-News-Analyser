@@ -52,12 +52,12 @@ This project is ideal for:
     SERP_API_KEY=<API-key>
     GROQ_API_KEY=<API-key>
 5. **Run the Application**
-    Start the backend server:
+- Start the backend server:
     ```bash
     cd backend
     uvicorn main:app --reload
 
-    Start the frontend application:
+- Start the frontend application:
     ``bash
     cd frontend
     streamlit run app.py
