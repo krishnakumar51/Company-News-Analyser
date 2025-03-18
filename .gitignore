@@ -1,0 +1,35 @@
+# Environment files
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+
+# Build artifacts
+*.egg-info/
+dist/
+build/
+*.egg
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# Frontend-specific
+news_summarizer/frontend/__pycache__/
+news_summarizer/frontend/static/
+
+# Backend static files (optional, keep if needed for deployment)
+# news_summarizer/backend/static/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Other temporary files
+*.log
+*.mp3  # Optional: Ignore audio files if not needed in repo
