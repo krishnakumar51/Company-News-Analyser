@@ -62,5 +62,9 @@ This project is ideal for:
     cd frontend
     streamlit run app.py
 
+## Usage
 
-
+- Open your browser and navigate to http://localhost:8501 (Streamlit default port).
+- Enter a company name (e.g., "nvidia" or "tesla") in the text input field.
+- Click the "Analyze" button to fetch articles, analyze sentiment, and generate summaries.
+- View the articles, sentiment breakdown, and listen to the English and Hindi audio summaries.
