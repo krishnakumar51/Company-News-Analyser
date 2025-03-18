@@ -11,10 +11,7 @@ Welcome to the **Company News Analyzer**, a powerful tool built with FastAPI and
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ## Overview
 The Company News Analyzer fetches the latest news articles for a given company using the Serp API, analyzes their sentiment using the `cardiffnlp/twitter-roberta-base-sentiment` model, and generates a summary with audio files in English and Hindi. It’s designed for users who want to quickly understand media sentiment and listen to insights in their preferred language.
